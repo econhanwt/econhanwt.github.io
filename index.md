@@ -18,20 +18,20 @@ full-width: true
 
 <hr size="2px">
 
-## Employment 
+# Employment 
 * Assistant Professor, [Dankook Univ.](https://www.dankook.ac.kr/), 2024 - present 
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - 2024 
 * Postdoctoral Research Fellow, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 
 <hr size="2px">
 
-## Research Interest
+# Research Interest
 * International Macroeconomics 
 * Business Cycle, Capital Flow, FDI, Monetary Policy in Open Economies 
 
 <hr size="2px">
 
-## References
+# References
 * [Charles Engel](https://www.ssc.wisc.edu/~cengel/)
 * [Kenneth West](https://www.ssc.wisc.edu/~kwest/)
 * [Javier Bianchi](http://www.javierbianchi.com/)
