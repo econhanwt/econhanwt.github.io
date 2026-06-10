@@ -37,11 +37,14 @@ full-width: true
 <hr size="2px">
 
 ## Work in Progress 
+* _“The Welfare Gains from Monetary Policy Coordination with Incomplete Exchange Rate Pass-Through and Imperfect Financial Markets”_ <br> 
+
+* _“Stairway to Haven: Sovereign Debt and the Patterns of Capital Flow”_ <br>
+  -&nbsp;with [Woojin Choi](https://sites.google.com/site/woojchoi/)
+
 * _“Favorable Tax Treatment for FDI Firms and Foreign Ownership Wage Premium: Evidence from China”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;Presented at AIB 2021-JIBS Paper Development Workshop   
-
-* _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
+  -&nbsp;Presented at AIB 2021-JIBS Paper Development Workshop 
 
 <hr size="2px">
 
