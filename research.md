@@ -49,7 +49,7 @@ full-width: true
 <hr size="2px">
 
 ## Conference and Seminar Presentations
-* [2025] KEA Annual Meeting, Konkuk Univ., Soongsil Univ. 
+* [2025] KEA Annual Meeting, Konkuk Univ., Soongsil Univ., Ewha Womans Univ. 
 
 * [2024] Dankook Univ., Chung-Ang Univ., Chonnam National Univ., Sookmyung Women’s Univ.
 
