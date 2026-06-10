@@ -916,23 +916,3 @@ pre {
   font-style: italic;
   font-size: 1rem;
 }
-
-
-/* --- 본문 영역 너비 확장 정의 --- */
-@media (min-width: 1200px) {
-    html body .container, 
-    html body .container-md,
-    html body .main-content .container {
-        max-width: 1400px !important;
-        width: 100% !important;
-    }
-}
-
-@media (min-width: 1500px) {
-    html body .container, 
-    html body .container-md,
-    html body .main-content .container {
-        max-width: 85% !important;
-        width: 100% !important;
-    }
-}
