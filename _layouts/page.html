@@ -6,7 +6,13 @@ layout: base
 
 <div class="container-md" role="main">
   <div class="row">
-    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+
+    <!-- 기존 설정: 본문 폭이 좁음 -->
+    <!-- <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1"> -->
+
+    <!-- 새 설정: 본문 폭을 넓힘 -->
+    <div class="col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+      
       {{ content }}
       {% include comments.html %}
     </div>
