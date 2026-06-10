@@ -19,7 +19,7 @@ full-width: true
 <hr size="2px">
 
 ## Employment 
-* Assistant Professor, [Dankook Univ.](https://www.dankook.ac.kr/en/web/international/102/), 2024 - present 
+* Assistant Professor, [Dankook Univ.](https://www.dankook.ac.kr/), 2024 - present 
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - 2024 
 * Postdoctoral Research Fellow, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 
