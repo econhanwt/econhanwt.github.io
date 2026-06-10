@@ -49,11 +49,13 @@ full-width: true
 <hr size="2px">
 
 ## Conference and Seminar Presentations
+* [2025] KEA Annual Meeting, Konkuk Univ., Soongsil Univ. 
+
 * [2024] Dankook Univ., Chung-Ang Univ., Chonnam National Univ., Sookmyung Women’s Univ.
 
 * [2023] Inha Univ., Univ. of Seoul, Kyung Hee Univ., Chung-Ang Univ.(B-School), Kookmin Univ., Chungbuk National Univ., Sejong Univ.
 
-* [2022] The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation)   
+* [2022] KEA Annual Meeting, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation)   
 
 * [2021] Sabanci Univ., LUMS, Bank of Korea, KIET, KIEP, Univ. of St Andrews, JIBS PDW  
 
