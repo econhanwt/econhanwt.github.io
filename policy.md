@@ -9,7 +9,7 @@ full-width: true
 # 정책 논문 및 국내 학술지 게재 논문 
 * 글로벌 은행 익스포저 네트워크의 구조 변화와 한국의 금융 위상: BIS LBS 자료를 중심으로 <br>
   -&nbsp;_“Structural Changes in the Global Banking Exposure Network and Korea’s Financial Position: Evidence from BIS LBS”_ <br>
-  -&nbsp;forthcoming, _**경영과학(KCI)**_ 
+  -&nbsp;June 2026, _**경영과학(KCI)**_, forthcoming  
 
 * Macroeconomic Stabilization in an Era of Deepening Economic Integration: Global Monetary Tightening, the Integrated Policy Framework, and South Korea’s Structural Transition <br>
   -&nbsp;June 2026, _**Journal of Economic Integration(SCOPUS,KCI)**_, Vol.41, No.2 <br>
