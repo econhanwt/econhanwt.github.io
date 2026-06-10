@@ -916,3 +916,17 @@ pre {
   font-style: italic;
   font-size: 1rem;
 }
+
+
+/* --- 본문 영역 너비 확장 정의 --- */
+@media (min-width: 1200px) {
+  .container, .container-md {
+    max-width: 1400px !important; /* 기본 약 1140px에서 1400px로 대폭 확장 */
+  }
+}
+
+@media (min-width: 1500px) {
+  .container, .container-md {
+    max-width: 85% !important; /* 초고해상도 모니터에서는 화면의 85% 비율로 유연하게 확대 */
+  }
+}
