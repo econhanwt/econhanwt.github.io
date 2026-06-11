@@ -30,6 +30,7 @@ full-width: true
   -&nbsp;August 2023, _**한국산학기술학회논문지(KCI)**_, Vol.24, No.8 <br>
   [[Article (KOR)](https://econhanwt.github.io/my_docs/papers/2023_08_Covid19_C_NC.pdf)]
 
+<hr size="2px">
 
 # 정부기관 연구보고서 
 * "글로벌 인플레이션의 국내파급효과와 경기안정화 정책 분석" <br>
