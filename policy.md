@@ -7,13 +7,14 @@ full-width: true
 <hr size="2px">
 
 # 정책 및 한국경제 연구 논문 
-* "글로벌 은행 익스포저 네트워크의 구조 변화와 한국의 금융 위상: BIS LBS 자료를 중심으로" <br>
-  -&nbsp;_“Structural Changes in the Global Banking Exposure Network and Korea’s Financial Position: Evidence from BIS LBS”_ <br>
-  -&nbsp;June 2026, _**경영과학(KCI)**_, forthcoming  
 
 * _“Macroeconomic Stabilization in an Era of Deepening Economic Integration: Global Monetary Tightening, the Integrated Policy Framework, and South Korea’s Structural Transition”_ <br>
   -&nbsp;June 2026, _**Journal of Economic Integration(SCOPUS)**_, Vol.41, No.2 <br>
   [[Article (ENG)](https://econhanwt.github.io/my_docs/papers/2026_06_JEI_IPF.pdf)]
+
+* "글로벌 은행 익스포저 네트워크의 구조 변화와 한국의 금융 위상: BIS LBS 자료를 중심으로" <br>
+  -&nbsp;_“Structural Changes in the Global Banking Exposure Network and Korea’s Financial Position: Evidence from BIS LBS”_ <br>
+  -&nbsp;June 2026, _**경영과학(KCI)**_, forthcoming  
 
 * "글로벌 포트폴리오 채권 투자 네트워크의 구조와 한국에 대한 통상금융적 시사점" <br>
   -&nbsp;_“The Structure of the Global Portfolio Bond Investment Network and Its Trade-Finance Implications for Korea”_ <br>
@@ -33,6 +34,7 @@ full-width: true
 <hr size="2px">
 
 # 정부기관 연구보고서 
+
 * "글로벌 인플레이션의 국내파급효과와 경기안정화 정책 분석" <br>
   -&nbsp;_“The Domestic Spillover Effects of Global Inflation and Related Economic Stabilization Policies”_ <br>
   -&nbsp;December 2024, _**KIEP Policy Analyses**_, co-authored <br>
