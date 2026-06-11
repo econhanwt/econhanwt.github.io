@@ -12,7 +12,7 @@ full-width: true
   -&nbsp;June 2026, _**경영과학(KCI)**_, forthcoming  
 
 * Macroeconomic Stabilization in an Era of Deepening Economic Integration: Global Monetary Tightening, the Integrated Policy Framework, and South Korea’s Structural Transition <br>
-  -&nbsp;June 2026, _**Journal of Economic Integration(SCOPUS,KCI)**_, Vol.41, No.2 <br>
+  -&nbsp;June 2026, _**Journal of Economic Integration(SCOPUS)**_, Vol.41, No.2 <br>
   [[Article (ENG)](https://econhanwt.github.io/my_docs/papers/2026_06_JEI_IPF.pdf)]
 
 * 글로벌 포트폴리오 채권 투자 네트워크의 구조와 한국에 대한 통상금융적 시사점 <br>
