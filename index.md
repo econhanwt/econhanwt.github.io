@@ -6,6 +6,7 @@ full-width: true
 #cover-img: /assets/img/Wontae_Han_interview_1.JPG
 ---
 
+
 <hr size="2px">
 
 # Wontae Han (한원태, 韓源兌) 
@@ -18,6 +19,7 @@ full-width: true
 
 <hr size="2px">
 
+
 # Employment 
 * Assistant Professor, [Dankook Univ.](https://www.dankook.ac.kr/), 2024 - present 
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - 2024 
@@ -25,11 +27,13 @@ full-width: true
 
 <hr size="2px">
 
+
 # Research Interest
 * International Macroeconomics 
 * Business Cycle, Capital Flow, FDI, Monetary Policy in Open Economies 
 
 <hr size="2px">
+
 
 # References
 * [Charles Engel](https://www.ssc.wisc.edu/~cengel/)
@@ -39,6 +43,7 @@ full-width: true
 
 <hr size="2px">
 
+
 ## Contact
 ```
 Affiliation: College of Business & Economics, Dankook University 
@@ -47,3 +52,4 @@ Email: econ.hanwt[at]dankook.ac.kr or hanwt2000[at]gmail.com
 ```
 
 <hr size="2px">
+
