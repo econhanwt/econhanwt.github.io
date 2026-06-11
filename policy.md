@@ -6,7 +6,7 @@ full-width: true
 
 <hr size="2px">
 
-# 정책 논문 및 국내 학술지 게재 논문 
+# 정책 및 한국경제 연구 논문 
 * "글로벌 은행 익스포저 네트워크의 구조 변화와 한국의 금융 위상: BIS LBS 자료를 중심으로" <br>
   -&nbsp;_“Structural Changes in the Global Banking Exposure Network and Korea’s Financial Position: Evidence from BIS LBS”_ <br>
   -&nbsp;June 2026, _**경영과학(KCI)**_, forthcoming  
