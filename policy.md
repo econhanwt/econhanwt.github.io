@@ -4,6 +4,7 @@ full-width: true
 #title: Policy 
 ---
 
+
 <hr size="2px">
 
 # 정책 및 한국경제 연구 논문 
@@ -32,6 +33,7 @@ full-width: true
   [[Article (KOR)](https://econhanwt.github.io/my_docs/papers/2023_08_Covid19_C_NC.pdf)]
 
 <hr size="2px">
+
 
 # 정부기관 연구보고서 
 
@@ -66,3 +68,4 @@ full-width: true
   [[Report (KOR)](https://econhanwt.github.io/my_docs/papers/2022_07_World_Economy_Today_Global_Inflation.pdf)] 
 
 <hr size="2px">
+
