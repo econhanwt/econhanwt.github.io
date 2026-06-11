@@ -13,6 +13,7 @@ full-width: true
 <hr size="2px">
 
 # Publications
+
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
   -&nbsp;_**Pacific Economic Review**_, Vol.29(1), February 2024 <br> 
@@ -25,7 +26,9 @@ full-width: true
 
 <hr size="2px">
 
+
 # Working Papers
+
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
   -&nbsp;January 2023 <br>
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_fig.pdf)]   
@@ -36,7 +39,9 @@ full-width: true
 
 <hr size="2px">
 
+
 # Work in Progress 
+
 * _“The Welfare Gains from Monetary Policy Coordination with Incomplete Exchange Rate Pass-Through and Imperfect Financial Markets”_ <br> 
 
 * _“Stairway to Haven: Sovereign Debt and the Patterns of Capital Flow”_ <br>
@@ -48,7 +53,9 @@ full-width: true
 
 <hr size="2px">
 
+
 ## Conference and Seminar Presentations
+
 * [2025] KEA Annual Meeting, Konkuk Univ., Soongsil Univ., Ewha Womans Univ. 
 
 * [2024] Dankook Univ., Chung-Ang Univ., Chonnam National Univ., Sookmyung Women’s Univ.
