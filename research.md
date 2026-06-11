@@ -10,6 +10,7 @@ full-width: true
 #Home Bias and Trade Elasticity: Implication for International Risk Sharing and the Transmission of Supply and Demand Shocks
 ---
 
+
 <hr size="2px">
 
 # Publications
@@ -73,3 +74,4 @@ full-width: true
 * [2018] Bank of Korea, CUHK(SZ) 
 
 <hr size="2px">
+
