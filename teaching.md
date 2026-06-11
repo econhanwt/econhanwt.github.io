@@ -16,6 +16,8 @@ full-width: true
 * _"Financial Data Analysis,"_ undergraduate level <br>
   -&nbsp;Fall 2025, Fall 2026 
 
+<hr size="2px">
+
 # Teaching Experience at [CUHK(SZ)](https://sme.cuhk.edu.cn/en)
 * _"Calculus for Economic Analysis I,"_ undergraduate level <br>
   -&nbsp;Fall 2019, Fall 2020 <br>
