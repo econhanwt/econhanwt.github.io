@@ -16,7 +16,7 @@ full-width: true
 * "글로벌 은행 익스포저 네트워크의 구조 변화와 한국의 금융 위상: BIS LBS 자료를 중심으로" <br>
   -&nbsp;_“Structural Changes in the Global Banking Exposure Network and Korea’s Financial Position: Evidence from BIS LBS”_ <br>
   -&nbsp;June 2026, _**경영과학**_(KCI), Vol. 43(2) <br>
-  [[Article (ENG)](https://econhanwt.github.io/my_docs/papers/2026_06_KMSR_BISLBSnetwork.pdf)]
+  [[Article (KOR)](https://econhanwt.github.io/my_docs/papers/2026_06_KMSR_BISLBSnetwork.pdf)]
 
 * "글로벌 포트폴리오 채권 투자 네트워크의 구조와 한국에 대한 통상금융적 시사점" <br>
   -&nbsp;_“The Structure of the Global Portfolio Bond Investment Network and Its Trade-Finance Implications for Korea”_ <br>
