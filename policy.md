@@ -10,12 +10,12 @@ full-width: true
 # 정책 및 한국경제 연구 논문 
 
 * _“Macroeconomic Stabilization in an Era of Deepening Economic Integration: Global Monetary Tightening, the Integrated Policy Framework, and South Korea’s Structural Transition”_ <br>
-  -&nbsp;June 2026, _**Journal of Economic Integration**_(SCOPUS), Vol.41, No.2 <br>
+  -&nbsp;June 2026, _**Journal of Economic Integration**_(SCOPUS), Vol.41(2) <br>
   [[Article (ENG)](https://econhanwt.github.io/my_docs/papers/2026_06_JEI_IPF.pdf)]
 
 * "글로벌 은행 익스포저 네트워크의 구조 변화와 한국의 금융 위상: BIS LBS 자료를 중심으로" <br>
   -&nbsp;_“Structural Changes in the Global Banking Exposure Network and Korea’s Financial Position: Evidence from BIS LBS”_ <br>
-  -&nbsp;June 2026, _**경영과학**_(KCI), Vol.43, No.2 <br>
+  -&nbsp;June 2026, _**경영과학**_(KCI), Vol.43(2) <br>
   [[Article (ENG)](https://econhanwt.github.io/my_docs/papers/2026_06_KMSR_BISLBSnetwork.pdf)]
 
 * "글로벌 포트폴리오 채권 투자 네트워크의 구조와 한국에 대한 통상금융적 시사점" <br>
@@ -25,12 +25,12 @@ full-width: true
 
 * "글로벌 포트폴리오 투자 네트워크의 확장과 축소: 2020년대의 비대칭적 구조와 한국에 대한 시사점" <br>
   -&nbsp;_“Expansion and Contraction of the Global Portfolio Investment Network: Asymmetric Structures in the 2020s and Implications for Korea”_ <br>
-  -&nbsp;April 2026, _**무역연구**_(KCI), Vol.22, No.2 <br>
+  -&nbsp;April 2026, _**무역연구**_(KCI), Vol.22(2) <br>
   [[Article (KOR)](https://econhanwt.github.io/my_docs/papers/2026_04_JITC_invnetwork.pdf)]
 
 * "코로나19 위기가 대면 산업 및 비대면 산업에 미친 영향" <br>
   -&nbsp;_“The Impact of COVID-19 on Contact and Non-Contact Sectors”_ <br>
-  -&nbsp;August 2023, _**한국산학기술학회논문지**_(KCI), Vol.24, No.8 <br>
+  -&nbsp;August 2023, _**한국산학기술학회논문지**_(KCI), Vol.24(8) <br>
   [[Article (KOR)](https://econhanwt.github.io/my_docs/papers/2023_08_Covid19_C_NC.pdf)]
 
 <hr size="2px">
