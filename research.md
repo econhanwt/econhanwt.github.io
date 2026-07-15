@@ -17,12 +17,12 @@ full-width: true
 
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;_**Pacific Economic Review**_, Vol.29(1), February 2024 <br> 
+  -&nbsp;_**Pacific Economic Review**_, Vol. 29(1), February 2024 <br> 
   [[DOI](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-0106.12421)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax_supp.pdf)] 
 
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;_**Journal of International Money and Finance**_, Vol.124, June 2022 <br>
+  -&nbsp;_**Journal of International Money and Finance**_, Vol. 124, June 2022 <br>
   [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_appendix.pdf)], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/2021_10_KIEP_opinions_no224.pdf)] 
 
 <hr size="2px">
